@@ -1,0 +1,25 @@
+{
+  "name": "day11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhengxygreat/program1012.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhengxygreat/program1012/issues"
+  },
+  "homepage": "https://github.com/Zhengxygreat/program1012#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.7.1",
+    "less": "^4.2.0"
+  }
+}
